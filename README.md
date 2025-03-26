@@ -1,7 +1,7 @@
 # LeetCode Problems 🚀
 
 This repository contains my solutions to various **LeetCode** problems.  
-I aim to solve problems in **C++ / Python / Java** while focusing on **optimized solutions**.
+I aim to solve problems in **Java** while focusing on **optimized solutions**.
 
 ## 📌 Topics Covered
 - **Arrays**
@@ -12,9 +12,6 @@ I aim to solve problems in **C++ / Python / Java** while focusing on **optimized
 - **Recursion & Backtracking**
 - **Sorting & Searching**
 - **Bit Manipulation**
-
-## 📂 Folder Structure
-LeetCode-Problems/ │-- Easy/ │-- Medium/ │-- Hard/ │-- README.md
 
 
 ## 💡 How to Use
@@ -28,5 +25,7 @@ cd LeetCode-Problems
 
 
 🔥 Keep Coding!
+
 I regularly update this repository with new problems.
+
 Feel free to contribute or provide suggestions! 😊
